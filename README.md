@@ -1,19 +1,14 @@
 **English** | [简体中文](README_zh.md)
-
 <br>
 
-<p align="center">
-  <img src="./docs/images/Anx-logo.jpg" alt="Anx-logo" width="100" />
-</p>
-<h1 align="center">Anx Reader</h1>
-<p align="center">
-  <a href="https://github.com/Anxcye/anx-reader/blob/main/LICENSE"><img src="https://img.shields.io/github/license/anxcye/anx-reader" alt="License" ></a>
-  <a href="https://github.com/Anxcye/anx-reader/releases"><img src="https://img.shields.io/github/downloads/anxcye/anx-reader/total" alt="Downloads"></a>
-  <a href="https://hellogithub.com/repository/819a2b3050204451bed552a8812114e5" target="_blank"><img src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=819a2b3050204451bed552a8812114e5&claim_uid=WBA1XOQirm2GRqs&theme=small" alt="Featured｜HelloGitHub"/></a>
-  <a href="https://github.com/anxcye/anx-reader/stargazers"><img src="https://img.shields.io/github/stars/anxcye/anx-reader" alt="stars"></a>
-</p>
+<h1 align="center">iPlus1 Reader</h1>
 
-Anx Reader is an application focused on reading, without any online promotional content. It can help you concentrate more on reading and improve your reading efficiency.
+
+<br>
+iPlus Reader is an application focused on reading, without any online promotional content. It can help you concentrate more on reading and improve your reading efficiency.
+
+The Input Hypothesis by Stephen Krashen suggests that language is best learned through exposure to comprehensible input—language slightly beyond the learner's current level ("i+1"). Understanding meaningful, context-rich communication helps learners naturally acquire grammar and vocabulary without formal study.
+<br>
 
 Support **epub / mobi / azw3 / fb2 / txt**
 Available on Android and Windows.
@@ -27,31 +22,9 @@ Available on Android and Windows.
 - Interface adapted for phones and tablets.
 
 ### TODO
-- [X] UI adaptation for tablets
-- [X] Page-turning animation
-- [X] TTS voice reading
-- [X] Reading fonts
-- [X] Translation
+- [ ] Dictionary
 - [ ] Full-text translation
-- [ ] Support for more file types (pdf)
-- [X] Support for WebDAV synchronization
-- [ ] Support for Linux, MacOS
-
-### I Encountered a Problem, What Should I Do?
-Check [Troubleshooting](./docs/troubleshooting.md#English)
-
-Submit an [issue](https://github.com/Anxcye/anx-reader/issues/new/choose), and we will respond as soon as possible.
-
-Telegram Group: [https://t.me/AnxReader](https://t.me/AnxReader)
-
-### Screenshots
-| ![](./docs/images/windows_main.png)**windows** | ![](./docs/images/2wen.png) **Android Tablet**|
-|:--:|:-:|
-| ![](./docs/images/1wen.png) | ![](./docs/images/3wen.png) |
-
-| ![](./docs/images/5men.jpg) | ![](./docs/images/1men.jpg) |![](./docs/images/7men.jpg)|
-|:--:|:--:|:--:|
-| ![](./docs/images/10men.jpg) | ![](./docs/images/9men.jpg) | ![](./docs/images/8men.jpg)|
+- [ ] iPlus1 things
 
 
 
@@ -68,6 +41,7 @@ You may encounter Flutter version incompatibility issues. Please refer to the [F
 
 # License
 Anx Reader is licensed under the [GPL-3.0 License](./LICENSE).
+iPlus1 under too.
 
 Starting from version 1.1.4, the open source license for the Anx Reader project has been changed from the MIT License to the GNU General Public License version 3 (GPLv3).
 
@@ -78,3 +52,4 @@ Starting from version 1.1.4, the open source license for the Anx Reader project 
 
 And many [other open source projects](./pubspec.yaml), thanks to all the authors for their contributions.
 
+[anx_reader](https://github.com/Anxcye/anx-reader) , which this project fork by.
